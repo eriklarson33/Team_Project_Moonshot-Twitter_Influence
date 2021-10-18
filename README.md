@@ -51,6 +51,7 @@
             Pipeline 1 R^2 Score for Linear Regression -0.15247038945928892<br>
             Pipeline 2 Mean Absolute Error for SGD Regression:  3.8222414070804835<br>
             Pipeline 2 R^2 Score for SGD Regression 0.09334151220648967<br>
+            <img src="Musk_Tweet_BTC_returns.png" alt="BTC returns versus Elon Musks Sentiment">
         </p>
     </li>
 </ul>
