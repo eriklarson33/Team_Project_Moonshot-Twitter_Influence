@@ -64,6 +64,13 @@
             <img src="Musk_Tweet_BTC_returns.png" alt="BTC returns versus Elon Musks Sentiment">
         </p>
     </li>
+    <li>Bitboy and Vitalik</li>
+        <p>
+            Mean Absolute Error for Linear Regression:  2.480915499754723
+            Score for Linear Regression -0.5976024639056632
+            Mean Absolute Error for SGD Regression:  2.6159054255969934
+            Score for SGD Regression -0.6236900686111211
+        </p>
 </ul>
 
 
