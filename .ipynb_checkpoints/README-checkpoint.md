@@ -47,10 +47,10 @@
         <p></p>
     <li>Elon Musk: 
         <p>
-            - Pipeline 1 Mean Absolute Error for Linear Regression:  3.823544002088014
-            - Pipeline 1 R^2 Score for Linear Regression -0.15247038945928892
-            - Pipeline 2 Mean Absolute Error for SGD Regression:  3.8222414070804835
-            - Pipeline 2 R^2 Score for SGD Regression 0.09334151220648967
+            Pipeline 1 Mean Absolute Error for Linear Regression:  3.823544002088014<br>
+            Pipeline 1 R^2 Score for Linear Regression -0.15247038945928892<br>
+            Pipeline 2 Mean Absolute Error for SGD Regression:  3.8222414070804835<br>
+            Pipeline 2 R^2 Score for SGD Regression 0.09334151220648967<br>
         </p>
     </li>
 </ul>
