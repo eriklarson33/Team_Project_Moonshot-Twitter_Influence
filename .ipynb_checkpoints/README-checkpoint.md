@@ -43,6 +43,7 @@
             Score for Linear Regression, coin_bureau 0.043975937202313076<br>
             Mean Absolute Error for SGD Regression, coin_bureau:  3.3745641385659884<br>
             Score for SGD Regression, coin_bureau 0.0096320156301134<br>
+            <img src="bureau_tweet_BTC_returns.png" alt="BTC returns versus Coin Buereau Sentiment">
         </p>
     <li>Anthony Pompliano</li>
         <p>
@@ -50,11 +51,26 @@
             Score for Linear Regression A_Pomp -0.5725208614420101<br>
             Mean Absolute Error for SGD Regression, A_Pomp:  3.429356523320292<br>
             Score for SGD Regression, A_Pomp -0.12759575605369045<br>
+            <img src="pomp_tweet_BTC_returns.png" alt="BTC returns versus Anthony Pompliano Sentiment">
         </p>
     <li>Mark Cuban</li>
-        <p></p>
+        <p>
+            Mean Absolute Error for Linear Regression:  4.959346407117332<br>
+            R^2 Score for Linear Regression -0.10405792338695496<br>
+            Mean Absolute Error for SGD Regression:  4.751273932764061<br>
+            R^2 Score for SGD Regression -0.050679666666174183<br>            
+            </p>
+            <img src="Mark_Cuban_Tweet_BTC_Returns_Linear.png" alt="BTC returns versus Mark Cuban Sentiment Linear Regression">
+            <img src="Mark_Cuban_Tweet_BTC_Returns_SGD.png" alt="BTC returns versus Mark Cuban Sentiment SGD">
     <li>Plan B</li>
-        <p></p>
+        <p>
+            Mean Absolute Error for Linear Regression:  3.443159673835962<br>
+            R^2 Score for Linear Regression -0.03570199757066761<br>
+            Mean Absolute Error for SGD Regression:  3.380995646610424<br>
+            R^2 Score for SGD Regression -0.008618582632169192<br>  
+            </p>
+            <img src="Planb_Tweet_BTC_Returns_Linear.png" alt="BTC returns versus PlanB Sentiment Linear Regression">
+            <img src="Planb_Tweet_BTC_Returns_SGD.png" alt="BTC returns versus PlanB Sentiment SGD">
     <li>Elon Musk: 
         <p>
             Mean Absolute Error for Linear Regression:  3.823544002088014<br>
@@ -64,6 +80,14 @@
             <img src="Musk_Tweet_BTC_returns.png" alt="BTC returns versus Elon Musks Sentiment">
         </p>
     </li>
+    <li>Bitboy and Vitalik</li>
+    <p>
+        Mean Absolute Error for Linear Regression:  2.480915499754723<br>
+        Score for Linear Regression -0.5976024639056632<br>
+        Mean Absolute Error for SGD Regression:  2.6159054255969934<br>
+        Score for SGD Regression -0.6236900686111211<br>
+        <img src="BitBoy Crypto Sentiment" alt="BTC returns versus Bitboy and Vitalik Sentiment">
+    </p>
 </ul>
 
 

@@ -43,6 +43,7 @@
             Score for Linear Regression, coin_bureau 0.043975937202313076<br>
             Mean Absolute Error for SGD Regression, coin_bureau:  3.3745641385659884<br>
             Score for SGD Regression, coin_bureau 0.0096320156301134<br>
+            <img src="bureau_tweet_BTC_returns.png" alt="BTC returns versus Coin Buereau Sentiment">
         </p>
     <li>Anthony Pompliano</li>
         <p>
@@ -50,6 +51,7 @@
             Score for Linear Regression A_Pomp -0.5725208614420101<br>
             Mean Absolute Error for SGD Regression, A_Pomp:  3.429356523320292<br>
             Score for SGD Regression, A_Pomp -0.12759575605369045<br>
+            <img src="pomp_tweet_BTC_returns.png" alt="BTC returns versus Anthony Pompliano Sentiment">
         </p>
     <li>Mark Cuban</li>
         <p>
@@ -78,6 +80,14 @@
             <img src="Musk_Tweet_BTC_returns.png" alt="BTC returns versus Elon Musks Sentiment">
         </p>
     </li>
+    <li>Bitboy and Vitalik</li>
+    <p>
+        Mean Absolute Error for Linear Regression:  2.480915499754723<br>
+        Score for Linear Regression -0.5976024639056632<br>
+        Mean Absolute Error for SGD Regression:  2.6159054255969934<br>
+        Score for SGD Regression -0.6236900686111211<br>
+        <img src="BitBoy Crypto Sentiment" alt="BTC returns versus Bitboy and Vitalik Sentiment">
+    </p>
 </ul>
 
 
