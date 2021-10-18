@@ -52,9 +52,23 @@
             Score for SGD Regression, A_Pomp -0.12759575605369045<br>
         </p>
     <li>Mark Cuban</li>
-        <p></p>
+        <p>
+            Mean Absolute Error for Linear Regression:  4.959346407117332<br>
+            R^2 Score for Linear Regression -0.10405792338695496<br>
+            Mean Absolute Error for SGD Regression:  4.751273932764061<br>
+            R^2 Score for SGD Regression -0.050679666666174183<br>            
+            </p>
+            <img src="Mark_Cuban_Tweet_BTC_Returns_Linear.png" alt="BTC returns versus Mark Cuban Sentiment Linear Regression">
+            <img src="Mark_Cuban_Tweet_BTC_Returns_SGD.png" alt="BTC returns versus Mark Cuban Sentiment SGD">
     <li>Plan B</li>
-        <p></p>
+        <p>
+            Mean Absolute Error for Linear Regression:  3.443159673835962<br>
+            R^2 Score for Linear Regression -0.03570199757066761<br>
+            Mean Absolute Error for SGD Regression:  3.380995646610424<br>
+            R^2 Score for SGD Regression -0.008618582632169192<br>  
+            </p>
+            <img src="Planb_Tweet_BTC_Returns_Linear.png" alt="BTC returns versus PlanB Sentiment Linear Regression">
+            <img src="Planb_Tweet_BTC_Returns_SGD.png" alt="BTC returns versus PlanB Sentiment SGD">
     <li>Elon Musk: 
         <p>
             Mean Absolute Error for Linear Regression:  3.823544002088014<br>
