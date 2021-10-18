@@ -38,19 +38,29 @@
 <p>Our outcomes were as follows:</p>
 <ul>
     <li>Coin Bureau</li>
-        <p></p>
+        <p>
+            Mean Absolute Error for Linear Regression, coin_bureau:  3.3380611018284925<br>
+            Score for Linear Regression, coin_bureau 0.043975937202313076<br>
+            Mean Absolute Error for SGD Regression, coin_bureau:  3.3745641385659884<br>
+            Score for SGD Regression, coin_bureau 0.0096320156301134<br>
+        </p>
     <li>Anthony Pompliano</li>
-        <p></p>
+        <p>
+            Mean Absolute Error for Linear Regression, A_Pomp:  3.427330562261765<br>
+            Score for Linear Regression A_Pomp -0.5725208614420101<br>
+            Mean Absolute Error for SGD Regression, A_Pomp:  3.429356523320292<br>
+            Score for SGD Regression, A_Pomp -0.12759575605369045<br>
+        </p>
     <li>Mark Cuban</li>
         <p></p>
     <li>Plan B</li>
         <p></p>
     <li>Elon Musk: 
         <p>
-            Pipeline 1 Mean Absolute Error for Linear Regression:  3.823544002088014<br>
-            Pipeline 1 R^2 Score for Linear Regression -0.15247038945928892<br>
-            Pipeline 2 Mean Absolute Error for SGD Regression:  3.8222414070804835<br>
-            Pipeline 2 R^2 Score for SGD Regression 0.09334151220648967<br>
+            Mean Absolute Error for Linear Regression:  3.823544002088014<br>
+            R^2 Score for Linear Regression -0.15247038945928892<br>
+            Mean Absolute Error for SGD Regression:  3.8222414070804835<br>
+            R^2 Score for SGD Regression 0.09334151220648967<br>
             <img src="Musk_Tweet_BTC_returns.png" alt="BTC returns versus Elon Musks Sentiment">
         </p>
     </li>
@@ -58,4 +68,4 @@
 
 
 <h2>Conclusion</h2>
-<p></p>
+<p>Although people often credit influencers for price movement, our results did not show strong impact on the BTC-USD price from their tweets.</p>
