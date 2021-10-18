@@ -86,7 +86,7 @@
         Score for Linear Regression -0.5976024639056632<br>
         Mean Absolute Error for SGD Regression:  2.6159054255969934<br>
         Score for SGD Regression -0.6236900686111211<br>
-        <img src="BitBoy Crypto Sentiment" alt="BTC returns versus Bitboy and Vitalik Sentiment">
+        <img src="BitBoy Crypto Sentiment.png" alt="BTC returns versus Bitboy and Vitalik Sentiment">
     </p>
 </ul>
 
